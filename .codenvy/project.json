@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{"recommend":{"ram":256,"variables":{},"options":{}}},"default":"system:/go/web"},"builders":{"configs":{}},"description":"Go Test","type":"go","attributes":{"language":["go"]}}
